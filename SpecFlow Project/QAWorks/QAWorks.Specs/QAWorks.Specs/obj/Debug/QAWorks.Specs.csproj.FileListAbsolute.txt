@@ -1,0 +1,15 @@
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\Default.srprofile
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\QAWorks.Specs.dll.config
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\QAWorks.Specs.dll
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\QAWorks.Specs.pdb
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\log4net.dll
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\nunit.framework.dll
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\TechTalk.SpecFlow.dll
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\TechTalk.SpecRun.dll
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\WebDriver.dll
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\log4net.xml
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\nunit.framework.xml
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\bin\Debug\WebDriver.xml
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\obj\Debug\QAWorks.Specs.dll
+D:\SpecFlow Project\QAWorks\QAWorks.Specs\QAWorks.Specs\obj\Debug\QAWorks.Specs.pdb
